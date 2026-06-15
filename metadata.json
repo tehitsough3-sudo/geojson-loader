@@ -1,0 +1,10 @@
+{
+  "name": "3D GeoJSON Map & Diorama",
+  "description": "Visualisasikan file GeoJSON Anda menjadi ekstrusi bangunan 3D interaktif pada peta Leaflet dan model blok diorama terain 3D realistis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
